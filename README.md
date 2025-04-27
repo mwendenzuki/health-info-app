@@ -24,7 +24,7 @@ It allows doctors to:
 ## How to Run
 
 1. Clone the repository:
-   git clone <your-repo-link> cd health-system-app
+   git clone <your-repo-link> cd health-info-app
 
 2. Install dependencies:
    npm install
